@@ -17,3 +17,5 @@
                 wheel      0.36.2
         1、pip3 install --index-url https://pypi.doubanio.com/simple/ requests==2.31.0
         2、pip3 install --index-url https://pypi.doubanio.com/simple/ pycryptodome==3.20.0( 库名实际是 Crypto )
+        2、pip3 install --index-url https://pypi.doubanio.com/simple/ frida==16.0.1
+        3、pip3 install --index-url https://pypi.doubanio.com/simple/ frida-tools==12.0.1
